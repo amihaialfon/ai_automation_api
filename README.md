@@ -1,4 +1,4 @@
-# AI Automation API (Generic OOP)
+# AI Automation API (Generic)
 
 ## Environment
 Create `.env` (copied from `.env.sample`):
